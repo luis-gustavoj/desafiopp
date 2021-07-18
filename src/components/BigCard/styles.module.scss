@@ -44,7 +44,7 @@
       ul {
         -ms-overflow-style: none; /* IE and Edge */
         scrollbar-width: none; /* Firefox */
-        height: 432px;
+        max-height: 400px;
         padding-left: 1rem;
         overflow: scroll;
 
